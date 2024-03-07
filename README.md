@@ -2,7 +2,7 @@
 
 # Запуск на opensrver 5.4.3
 
-# Профиль ospanel
+# Профиль opensrver
 
 # Nginx 1.23
 
